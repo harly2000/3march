@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Dosis", sans-serif;
+  line-height: 1.6;
+  background: #fff;
+}
+
+img {
+  width: 100%;
+}
+
+#header-home {
+  background: url("../img/forest.jpg") center right/cover;
+  height: 100vh;
+  color: white;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  float-top: 70px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  color: red;
+}
